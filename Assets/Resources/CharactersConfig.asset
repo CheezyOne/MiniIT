@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc0357f047c840f4bbc0e385411d4e11, type: 3}
+  m_Name: CharactersConfig
+  m_EditorClassIdentifier: 
+  characterInfos:
+  - Sprite: {fileID: 21300000, guid: 19fc09e12aad74e8dbde74e7956fdb4d, type: 3}
+    Price: 10
+    Level: 1
+    Name: First guy
+    Profit: 5
+  - Sprite: {fileID: 21300000, guid: f4bfb6d2b98a244b08c311d31794f7d5, type: 3}
+    Price: 20
+    Level: 2
+    Name: Second guy
+    Profit: 10
+  - Sprite: {fileID: 21300000, guid: de5228c5d6d1b4b689ae135509da1e53, type: 3}
+    Price: 30
+    Level: 3
+    Name: And so on
+    Profit: 15
+  - Sprite: {fileID: 21300000, guid: b520d84d311d74e7da66bd817f2bc4d4, type: 3}
+    Price: 40
+    Level: 4
+    Name: And so on
+    Profit: 20
+  - Sprite: {fileID: 21300000, guid: ac36dea6a788347ef924427691d64605, type: 3}
+    Price: 50
+    Level: 5
+    Name: And so on
+    Profit: 25
+  - Sprite: {fileID: 21300000, guid: 541ddfff9e82d4ac2a38535feed1490f, type: 3}
+    Price: 60
+    Level: 6
+    Name: And so on
+    Profit: 30
+  - Sprite: {fileID: 21300000, guid: cae1908ef32d7457e8c9d9e772b22e61, type: 3}
+    Price: 70
+    Level: 7
+    Name: And so on
+    Profit: 35
+  - Sprite: {fileID: 21300000, guid: 1e7151342e980464a88db1ae971d80f7, type: 3}
+    Price: 80
+    Level: 8
+    Name: And so on
+    Profit: 40
+  - Sprite: {fileID: 21300000, guid: 88226c8eea17e482f9bff333a713189a, type: 3}
+    Price: 90
+    Level: 9
+    Name: And so on
+    Profit: 45
+  - Sprite: {fileID: 21300000, guid: 6bc1b8ad7a39f45d6a92ed46a98f4b5d, type: 3}
+    Price: 100
+    Level: 10
+    Name: And so on
+    Profit: 50
